@@ -1,7 +1,7 @@
 title: Reef Fish
-description: By ReefMan
+description: Matthew Runo
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-cayman
 
 gems:
