@@ -1,5 +1,6 @@
-### Welcome to Reef Fish - ReefMan's home on the web 
-This is just an automatic generation of content. More to come!
+### Hi!
+You've found... something.
 
-### ReefMan?
-[ReefMan](https://www.youtube.com/c/reefman) is the creation of Matthew Runo (@inktomi)
+Maybe there will be more here sometime. 
+
+Have a great day!
